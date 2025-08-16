@@ -1,0 +1,12 @@
+#miDiv {
+  padding: 5px;
+  background-color: green;
+  display: inline-block;
+}
+
+#miDiv button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+}
